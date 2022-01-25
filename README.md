@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NahuelAGH
 - 👀 I’m interested in learn how 2 coding
-- 🌱 I’m currently learning JAva & MySQL
+- 🌱 I’m currently learning JAVA & MySQL
 - 💞️ I’m looking to collaborate reading and detect errors in code writing
 - 📫 How to reach me nahuel.gerezhaded@gmail.com
 
